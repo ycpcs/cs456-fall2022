@@ -14,7 +14,8 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 
 >  Date   |      Topic          |                                    Reading                                             |
 > ------- | ------------------  | -------------------------------------------------------------------------------------- |
-> Aug 23  | Introduction        | *Four Ethical Issues of the Information Age*, Richard O. Mason (MIS Quarterly - 3/86)  |
+> Aug 23  | Course Overview        |   |
+> Aug 25  | Introduction        | *Four Ethical Issues of the Information Age*, Richard O. Mason (MIS Quarterly - 3/86)  |
 
 
 
