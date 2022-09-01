@@ -18,6 +18,8 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Aug 25  | Introduction        | *Four Ethical Issues of the Information Age*, Richard O. Mason (MIS Quarterly - 3/86)  |
 > Aug 30  | Profession          | *Computing Is a Profession*, Andrew A. Chien (ACM - 10/17) <br /> *Advancing Computing as a Science and Profession - But to What End?*, Moshe Y. Vardi (ACM - 3/20) <br /> *ACM Code of Ethics: A Guide for Positive Action*, Don Gotterbarn, Amy Bruckman, Catherine Flick, Keith Miller, Marty J. Wolf (ACM - 1/18) <br /> [The Pledge of The Computing Professional](http://pledge-of-the-computing-professional.org/home-page/the-oath) |
 > Sep  1  | Responsibility      | *Tony's Law*, Dror G. Feitelson (ACM - 2/19) <br /> *Are You Sure Your Software Will Not Kill Anyone?*, Nancy Leveson (ACM - 2/20) <br /> *When Technology Goes Awry*, Cal Newport (ACM - 5/20) |
+> Sep 6   | IP - Copyrights     | *Who Owns the Social Web?*, Catherine C. Marshall, Frank M. Shipman (ACM - 5/17) <br /> *The EU’s Controversial Digital Single Market Directive*, Pamela Samuelson (ACM - 11/18) <br /> *Copyright's Online Service Providers Safe Harbors Under Siege*, Pamela Samuelson (ACM - 11/20) |
+> Sep 8   | IP - Patents        | *Why Do Software Startups Patent (or Not)?*, Pamela Samuelson (ACM - 11/10) <br/> *Software Patents Are Falling Down*, Pamela Samuelson (ACM - 11/15) <br /> *Do Patent Commons and Standards-Setting Organizations Help Navigate Patent Thickets?*, Wen Wen and Chris Forman (ACM - 5/16) |
 
 
 <!--
