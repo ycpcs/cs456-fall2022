@@ -20,6 +20,31 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Sep  1  | Responsibility      | *Tony's Law*, Dror G. Feitelson (ACM - 2/19) <br /> *Are You Sure Your Software Will Not Kill Anyone?*, Nancy Leveson (ACM - 2/20) <br /> *When Technology Goes Awry*, Cal Newport (ACM - 5/20) |
 > Sep 6   | IP - Copyrights     | *Who Owns the Social Web?*, Catherine C. Marshall, Frank M. Shipman (ACM - 5/17) <br /> *The EU’s Controversial Digital Single Market Directive*, Pamela Samuelson (ACM - 11/18) <br /> *Copyright's Online Service Providers Safe Harbors Under Siege*, Pamela Samuelson (ACM - 11/20) |
 > Sep 8   | IP - Patents        | *Why Do Software Startups Patent (or Not)?*, Pamela Samuelson (ACM - 11/10) <br/> *Software Patents Are Falling Down*, Pamela Samuelson (ACM - 11/15) <br /> *Do Patent Commons and Standards-Setting Organizations Help Navigate Patent Thickets?*, Wen Wen and Chris Forman (ACM - 5/16) |
+> Sep 13  | **EXAM I PART I Discussion** |  |
+> Sep 15  | Privacy - I         | *The Tangled Web We Have Woven*, Eben Moglen (ACM - 2/13) <br /> *Privacy is Dead, Long Live Privacy*, Jean-Pierre Hubaux and Ari Juels (ACM - 6/16) <br /> *Who Has Access to Your Smartphone Data?*, Keith Kirkpatrick (ACM - 10/20) | 
+> Sep 20  | Privacy - II        | *A Recent Renaissance in Privacy Law*, Margot Kaminski (ACM - 9/20) <br /> *Tracking Shoppers*, Keith Kirkpatrick (ACM - 2/20) <br /> *Welcome to the Singularity*, David Allen Batchelor (ACM - 2/18) | 
+> Sep 22  | Security - I        | *Cyber Insecurity and Cyber Libertarianism*, Moshe Y. Vardi (ACM - 5/17) <br /> *IoT: The Internet of Terror*, George V. Neville-Neil (ACM - 10/17) <br /> *Deep Insecurities: The Internet of Things Shifts Technology Risk*, Samuel Greengard (ACM - 5/19) <br /> *Encryption and Surveillance*, Joan Feigenbaum (ACM - 5/19)|
+> Sep 27  | Security - II       | *Why is Cybersecurity Not a Human-Scale Problem Anymore?*, Gaurav Banga (ACM - 4/20) <br /> *Secure Development Tools and Techniques Need More Research That Will Increase Their Impact and Effectiveness in Practice*, Adam Shostack and Mary Ellen Zurko (ACM - 5/20) <br /> *I Can't Let You Do That, Dave*, Cory Doctorow (ACM - 12/15) **NOTE: This is the Dec 2015 article** <br />  |  
+> Sep 29  | Internet Free Speech | *Four Internets*, Kieron O'Hara and Wendy Hall (ACM - 3/20) <br /> *Continuity and Change in Internet Law*, James Grimmelmann (ACM - 5/19) <br /> *Proposal: A Market for Truth to Address False Ads on Social Media*, Marshal W. Van Alstyne (ACM - 7/20) <br /> *Content Moderation Modulation*, Kate Klonick (ACM - 1/21) |
+> Oct 4   | Individual Impact    | *Does the Internet Make Us Stupid?*, Hermann Maurer (ACM - 1/15)  <br /> *Are We Addicted to Technology?*, Logan Kugler (ACM - 8/20) <br /> *Excessive Use of Technology: Can Tech Providers be the Culprits?*, Ofir Turel and Christopher Ferguson (ACM - 1/21)|
+> Oct 6   | Societal Impact      | *Access to the Internet is a Human Right*, Stephen Wicker and Stephanie Santoso (ACM - 6/13) <br /> *Consumers vs. Citizens in Democracy's Public Sphere*, Allison Stanger (ACM - 7/20) <br /> *Digitocracy*, Joel R. Reidenberg (ACM - 9/17)|
+> Oct 11  | **NO CLASS - Fall Break** |  |
+> Oct 13  | **EXAM I PART 2 Discussion** |  |
+> Oct 18  | Student |  |
+> Oct 20  | Student |  |
+> Oct 25  | Student |  |
+> Oct 27  | Student |  |
+> Nov 1   | Student |  |
+> Nov 3   | **EXAM II PART I Discussion** |  |
+> Nov 8   | Student |  |
+> Nov 10  | Student |  |
+> Nov 15  | Student |  |
+> Nov 17  | Student |  |
+> Nov 22  | Student |  |
+> Nov 24  | **NO CLASS - Thanksgiving Break** |  |
+> Nov 10  | Student |  |
+> Nov 29  | **EXAM II PART II Discussion** |  |
+> Dec 1   | Wrapup |  |
 
 
 <!--

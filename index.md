@@ -18,6 +18,11 @@ Welcome to the website for CS 456, Social and Professional Issues in Computing, 
 
 ## News
 * **Aug 23** - Welcome back!
+* **Sep 13** - Exam 1 Part 1 Discussion
+* **Sep 16 - Exam 1 Part 1 Due** upload a .pdf to Canvas by 11:59pm
+* **Oct 11 - NO CLASS - FALL BREAK**
+* **Oct 13** - Exam 1 Part 2 Discussion
+* **Oct 17 - Exam 1 Part 2 Due** upload a .pdf to Canvas by 11:59pm
 
 
 
