@@ -30,21 +30,20 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Oct 6   | Societal Impact      | *Access to the Internet is a Human Right*, Stephen Wicker and Stephanie Santoso (ACM - 6/13) <br /> *Consumers vs. Citizens in Democracy's Public Sphere*, Allison Stanger (ACM - 7/20) <br /> *Digitocracy*, Joel R. Reidenberg (ACM - 9/17)|
 > Oct 11  | **NO CLASS - Fall Break** |  |
 > Oct 13  | **EXAM I PART 2 Discussion** |  |
-> Oct 18  | Student |  |
-> Oct 20  | Student |  |
-> Oct 25  | Student |  |
-> Oct 27  | Student |  |
-> Nov 1   | Student |  |
-> Nov 3   | **EXAM II PART I Discussion** |  |
-> Nov 8   | Student |  |
-> Nov 10  | Student |  |
-> Nov 15  | Student |  |
-> Nov 17  | Student |  |
-> Nov 22  | Student |  |
+> Oct 18  | *Government Sponsored Cyber Programs* <br /> Ralph Greaves |  |
+> Oct 20  | *Anonymous* <br /> Brady Carbaugh |  |
+> Oct 25  | *Cyberwarfare* <br /> Josh Kopelcheck |  |
+> Oct 27  | *Right to Repair in Video Games* <br /> Derek Ile |  |
+> Nov 1   | *Addictive Design* <br /> Kayla Hunt |  |
+> Nov 3   | *Facebook/Meta* <br /> Ian Arnold |  |
+> Nov 8   | **EXAM II PART I Discussion** |  |
+> Nov 10  | *Brain Implants* <br /> Derek Herr |  |
+> Nov 15  | *Cybernetics* <br /> Jordan King |  |
+> Nov 17  | *AI Bias* <br /> Kevin Tanzosh |  |
+> Nov 22  | *Self-driving Cars (Tesla Autopilot)* <br /> Liam Bradley |  |
 > Nov 24  | **NO CLASS - Thanksgiving Break** |  |
-> Nov 10  | Student |  |
-> Nov 29  | **EXAM II PART II Discussion** |  |
-> Dec 1   | Wrapup |  |
+> Nov 29  | *AI Sentience* <br /> Tyler Franks |  |
+> Dec 1   | **EXAM II PART II Discussion** |  |
 
 
 <!--
