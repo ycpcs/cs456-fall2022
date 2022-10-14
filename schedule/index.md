@@ -30,7 +30,7 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Oct 6   | Societal Impact      | *Access to the Internet is a Human Right*, Stephen Wicker and Stephanie Santoso (ACM - 6/13) <br /> *Consumers vs. Citizens in Democracy's Public Sphere*, Allison Stanger (ACM - 7/20) <br /> *Digitocracy*, Joel R. Reidenberg (ACM - 9/17)|
 > Oct 11  | **NO CLASS - Fall Break** |  |
 > Oct 13  | **EXAM I PART 2 Discussion** |  |
-> Oct 18  | *Government Sponsored Cyber Programs* <br /> Ralph Greaves |  |
+> Oct 18  | *Government Sponsored Cyber Programs* <br /> Ralph Greaves | [Department of Homeland Security Kicks Off Cybersecurity Awareness Month](https://www.dhs.gov/news/2022/10/03/department-homeland-security-kicks-cybersecurity-awareness-month) <br /> [Cyber Mission Overview](https://www.dhs.gov/news/2022/10/03/cyber-mission-overview) <br /> [Biden-Harris Administration Announces $1 Billion in Funding for First-Ever State and Local Cybersecurity Grant Program](https://www.dhs.gov/news/2022/09/16/biden-harris-administration-announces-1-billion-funding-first-ever-state-and-local) |
 > Oct 20  | *Anonymous* <br /> Brady Carbaugh |  |
 > Oct 25  | *Cyberwarfare* <br /> Josh Kopelcheck |  |
 > Oct 27  | *Right to Repair in Video Games* <br /> Derek Ile |  |
