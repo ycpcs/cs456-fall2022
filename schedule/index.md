@@ -31,7 +31,7 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Oct 11  | **NO CLASS - Fall Break** |  |
 > Oct 13  | **EXAM I PART 2 Discussion** |  |
 > Oct 18  | *Government Sponsored Cyber Programs* <br /> Ralph Greaves | [Department of Homeland Security Kicks Off Cybersecurity Awareness Month](https://www.dhs.gov/news/2022/10/03/department-homeland-security-kicks-cybersecurity-awareness-month) <br /> [Cyber Mission Overview](https://www.dhs.gov/news/2022/10/03/cyber-mission-overview) <br /> [Biden-Harris Administration Announces $1 Billion in Funding for First-Ever State and Local Cybersecurity Grant Program](https://www.dhs.gov/news/2022/09/16/biden-harris-administration-announces-1-billion-funding-first-ever-state-and-local) |
-> Oct 20  | *Anonymous* <br /> Brady Carbaugh |  |
+> Oct 20  | *Anonymous* <br /> Brady Carbaugh | [‘Beneath This Mask There is More Than Flesh, Beneath This Mask There is an Idea’: Anonymous as the (Super)heroes of the Internet?](https://link.springer.com/article/10.1007/s11196-019-09615-6) - only the *Power Relations Resulting from the Cyber-Performances* section <br /> [What Is a ‘Hacktivist’?](https://archive.nytimes.com/opinionator.blogs.nytimes.com/2013/01/13/what-is-a-hacktivist/) <br /> [Five years ago today, Sony admitted the great PSN hack](https://www.eurogamer.net/sony-admitted-the-great-psn-hack-five-years-ago-today) |
 > Oct 25  | *Cyberwarfare* <br /> Josh Kopelcheck |  |
 > Oct 27  | *Right to Repair in Video Games* <br /> Derek Ile |  |
 > Nov 1   | *Addictive Design* <br /> Kayla Hunt |  |
