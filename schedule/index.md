@@ -34,17 +34,16 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Oct 20  | *Anonymous* <br /> Brady Carbaugh | [‘Beneath This Mask There is More Than Flesh, Beneath This Mask There is an Idea’: Anonymous as the (Super)heroes of the Internet?](https://link.springer.com/article/10.1007/s11196-019-09615-6) - only the *Power Relations Resulting from the Cyber-Performances* section <br /> [What Is a ‘Hacktivist’?](https://archive.nytimes.com/opinionator.blogs.nytimes.com/2013/01/13/what-is-a-hacktivist/) <br /> [Five years ago today, Sony admitted the great PSN hack](https://www.eurogamer.net/sony-admitted-the-great-psn-hack-five-years-ago-today) |
 > Oct 25  | *Cyberwarfare* <br /> Josh Kopelcheck |  |
 > Oct 27  | *Right to Repair in Video Games* <br /> Derek Ile |  |
-> Nov 1   | *Addictive Design* <br /> Kayla Hunt |  |
-> Nov 3   | *Facebook/Meta* <br /> Ian Arnold |  |
-> Nov 8   | **EXAM II PART I Discussion** |  |
-> Nov 10  | *Brain Implants* <br /> Derek Herr |  |
-> Nov 15  | *Cybernetics* <br /> Jordan King |  |
-> Nov 17  | *AI Bias* <br /> Kevin Tanzosh |  |
-> Nov 22  | *Self-driving Cars (Tesla Autopilot)* <br /> Liam Bradley |  |
+> Nov 1   | *Addictive Design* <br /> Kayla Hunt <br /> *Facebook/Meta* <br /> Ian Arnold |  |
+> Nov 3   | **EXAM II PART I Discussion** |  |
+> Nov 8   | *Brain Implants* <br /> Derek Herr |  |
+> Nov 10  | *Cybernetics* <br /> Jordan King |  |
+> Nov 15  | *AI Bias* <br /> Kevin Tanzosh |  |
+> Nov 17  | *Self-driving Cars (Tesla Autopilot)* <br /> Liam Bradley |  |
+> Nov 22  | *AI Sentience* <br /> Tyler Franks |  |
 > Nov 24  | **NO CLASS - Thanksgiving Break** |  |
-> Nov 29  | *AI Sentience* <br /> Tyler Franks |  |
-> Dec 1   | **EXAM II PART II Discussion** |  |
-
+> Nov 29  | **EXAM II PART II Discussion** |  |
+> Dec 1   | Prof. Hake | |
 
 <!--
 > Aug 26  | Profession          | *Computing Is a Profession*, Andrew A. Chien (ACM - 10/17) <br /> *Advancing Computing as a Science and Profession - But to What End?*, Moshe Y. Vardi (ACM - 3/20) <br /> *ACM Code of Ethics: A Guide for Positive Action*, Don Gotterbarn, Amy Bruckman, Catherine Flick, Keith Miller, Marty J. Wolf (ACM - 1/18) <br /> [The Pledge of The Computing Professional](http://pledge-of-the-computing-professional.org/home-page/the-oath) |
